@@ -55,11 +55,11 @@ The dataset includes:
 
 ## Folder Structure
 `
-├── README.md
-├── data
-├── requirements.txt
-├── scripts
-└── visuals
+    ├── README.md
+    ├── data
+    ├── requirements.txt
+    ├── scripts
+    └── visuals
 `
 
 ## Tools & Libraries
