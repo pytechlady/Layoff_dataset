@@ -55,11 +55,11 @@ The dataset includes:
 
 ## Folder Structure
 layoffs_dataset/
-├── data/ # Raw and cleaned datasets
-├── scripts/ # SQL and jupyter file for queries
-├── visuals/ # Chart visualisation
-├── README.md # Documentation
-└── requirements.txt # installation file
+├── README.md
+├── data/
+├── requirements.txt
+├── scripts/
+└── visuals/
 
 ## Tools & Libraries
 - SQL, Pandas
