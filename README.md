@@ -54,12 +54,13 @@ The dataset includes:
 ---
 
 ## Folder Structure
-layoffs_dataset/
+`
 ├── README.md
-├── data/
+├── data
 ├── requirements.txt
-├── scripts/
-└── visuals/
+├── scripts
+└── visuals
+`
 
 ## Tools & Libraries
 - SQL, Pandas
