@@ -55,10 +55,22 @@ The dataset includes:
 
 ## Folder Structure
     ├── README.md
-    ├── data/
+    ├── data
+    │   ├── correlation_btw_funds_raised_vs_percent_lay_off.csv
+    │   ├── layoff_data_cleaned.csv
+    │   ├── layoffs.csv
+    │   ├── layoffs_by_geography.csv
+    │   ├── layoffs_by_industry.csv
+    │   ├── layoffs_by_industry_per_year.csv
+    │   └── layoffs_rank_of_companies.csv
     ├── requirements.txt
-    ├── scripts/
-    └── visuals/
+    ├── scripts
+    │   ├── correlation_data.ipynb
+    │   └── layoffs_data.sql
+    └── visuals
+        ├── layoff_by_industry_page-0001.jpg
+        ├── top_layoff_by_company_page-0001.jpg
+        └── top_layoff_by_geography_page-0001.jpg
 
 ## Tools & Libraries
 - SQL, Pandas
