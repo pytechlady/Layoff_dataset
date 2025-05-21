@@ -1,0 +1,1001 @@
+company,avg_percentage_laid_off,avg_funds_raised,total_laid_off
+Netflix,2.00,121900.00,505.0
+Xerox,15.00,27200.00,3000.0
+Meta,9.00,26000.00,24700.0
+Uber,18.75,24783.33,7785.0
+Tesla,10.00,20200.00,14500.0
+Northvolt,41.00,13800.00,4400.0
+Grab,8.00,13200.00,1360.0
+WeWork,20.00,13140.00,1150.0
+Flipkart,5.00,12900.00,1100.0
+Twitter,30.00,12900.00,3940.0
+Cruise,27.33,11766.67,2050.0
+Rivian,5.00,9750.00,1170.0
+Bytedance,10.00,9114.29,5700.0
+"Delivery Hero",4.00,9100.00,756.0
+"Lucid Motors",12.00,8300.00,1700.0
+"Lazada Group",30.00,7200.00,100.0
+NIO,10.00,7200.00,NULL
+"Epic Games",16.00,6400.00,870.0
+Airbnb,25.00,5900.00,1930.0
+Robinhood,13.00,5600.00,1203.0
+Byju's,4.00,5500.00,5500.0
+Waymo,8.00,5500.00,209.0
+JD.ID,30.00,5100.00,200.0
+Lyft,11.80,4900.00,2844.0
+Snap,15.00,4900.00,1970.0
+Gojek,9.00,4800.00,430.0
+Ola,22.50,4760.00,2980.0
+Stripe,8.50,4433.33,1350.0
+Take-Two,5.00,4100.00,579.0
+Aurora,3.00,3700.00,NULL
+Bilibili,30.00,3700.00,NULL
+Klarna,10.00,3700.00,800.0
+"Argo AI",5.00,3600.00,682.0
+Verily,15.00,3500.00,250.0
+Gopuff,5.25,3400.00,2400.0
+"Magic Leap",50.00,3350.00,1075.0
+Expedia,5.50,3300.00,1600.0
+Nikola,15.00,3300.00,400.0
+OneWeb,85.00,3000.00,451.0
+Palantir,2.00,3000.00,195.0
+SoFi,5.50,2750.00,112.0
+"Uber Freight",3.00,2700.00,230.0
+Instacart,7.00,2650.00,2127.0
+Swiggy,7.00,2600.00,3280.0
+DoorDash,6.00,2500.00,1250.0
+Britishvolt,100.00,2400.00,206.0
+Flexport,15.50,2400.00,640.0
+Chime,12.00,2300.00,156.0
+Grover,10.00,2300.00,40.0
+View,23.00,2300.00,170.0
+Invitae,15.00,2250.00,1235.0
+Navan,5.00,2200.00,290.0
+iFood,6.00,2100.00,355.0
+Nuro,25.00,2100.00,647.0
+Spotify,8.33,2100.00,2355.0
+Ziroom,20.00,2100.00,NULL
+Cazoo,15.00,2000.00,1500.0
+UiPath,7.00,2000.00,871.0
+"Zebra Technologies",7.00,2000.00,700.0
+EQRx,18.00,1900.00,NULL
+"Impossible Foods",6.00,1900.00,50.0
+"Impossible Foods copy",20.00,1900.00,140.0
+Lacework,20.00,1900.00,300.0
+Peloton,15.00,1900.00,4495.0
+Checkout.com,5.00,1800.00,180.0
+Getir,12.50,1800.00,5900.0
+Opendoor,23.00,1800.00,2010.0
+Quibi,100.00,1800.00,NULL
+"Deliveroo Australia",100.00,1700.00,120.0
+Dropbox,17.00,1700.00,1342.0
+Faire,13.50,1700.00,334.0
+Farfetch,25.00,1700.00,2000.0
+Fisker,57.50,1700.00,NULL
+Sabre,15.00,1700.00,1100.0
+"VerSe Innovation",5.00,1700.00,150.0
+Wayfair,7.75,1700.00,5340.0
+Splunk,4.00,1613.33,895.0
+AppLovin,12.00,1600.00,790.0
+Carvana,10.00,1600.00,4000.0
+Compass,12.50,1600.00,1096.0
+Deliveroo,12.00,1600.00,717.0
+"Ginkgo Bioworks",35.00,1600.00,400.0
+Wish,22.00,1600.00,595.0
+Affirm,10.00,1500.00,560.0
+Figure,20.00,1500.00,90.0
+Juul,30.00,1500.00,1300.0
+Reef,5.00,1500.00,750.0
+Udaan,7.00,1500.00,630.0
+Airtable,23.50,1400.00,491.0
+AlphaSense,8.00,1400.00,150.0
+ChargePoint,12.33,1400.00,250.0
+FNZ,15.00,1400.00,1000.0
+Freenome,20.00,1400.00,100.0
+Groupon,29.50,1400.00,3800.0
+"Hewlett Packard Enterprise",5.00,1400.00,2500.0
+Lilium,100.00,1400.00,1000.0
+NYDIG,33.00,1400.00,110.0
+N26,2.50,1394.00,94.0
+Katerra,36.67,1366.67,3074.0
+Cars24,6.00,1300.00,900.0
+Gorillas,50.00,1300.00,840.0
+"GoTo Group",12.00,1300.00,1900.0
+"Hippo Insurance",15.00,1300.00,190.0
+"Oscar Health",5.00,1300.00,70.0
+Reddit,5.00,1300.00,90.0
+SAP,5.00,1300.00,11000.0
+Unity,8.80,1300.00,3199.0
+Vroom,33.75,1300.00,1802.0
+Pagaya,20.00,1285.50,240.0
+Brex,15.33,1244.00,480.0
+CrowdStrike,5.00,1200.00,500.0
+eBay,6.50,1200.00,1540.0
+"Fate Therapeutics",57.00,1200.00,315.0
+Glovo,6.00,1200.00,437.0
+Jumia,20.00,1200.00,900.0
+"Lightspeed Commerce",10.00,1200.00,780.0
+Okta,5.00,1200.00,904.0
+23andMe,20.00,1100.00,346.0
+Circle,6.00,1100.00,50.0
+Dataminr,20.00,1100.00,150.0
+"Lordstown Motors",100.00,1100.00,NULL
+MessageBird,28.00,1100.00,210.0
+Momentive,12.50,1100.00,180.0
+nCino,7.00,1100.00,100.0
+Nutanix,4.00,1100.00,270.0
+OpenText,5.00,1100.00,2800.0
+SambaNova,15.00,1100.00,77.0
+ServiceTitan,8.00,1100.00,221.0
+"Back Market",13.00,1000.00,93.0
+"Berlin Brands Group",10.00,1000.00,100.0
+BlockFi,60.00,1000.00,250.0
+Fireblocks,4.00,1000.00,50.0
+Flink,28.00,1000.00,8100.0
+Hopin,19.33,1000.00,380.0
+Ro,18.00,1000.00,NULL
+Amazon,2.50,996.00,27940.0
+Discord,10.50,995.00,207.0
+Convoy,28.25,991.25,620.0
+Automattic,16.00,986.00,281.0
+TripActions,25.00,981.00,300.0
+Bolt,22.00,975.00,307.0
+"Ninja Van",7.50,974.00,21.0
+Saks.com,5.00,965.00,100.0
+ShareChat,14.00,961.00,958.0
+Zoox,10.00,955.00,220.0
+LegalZoom,15.00,951.50,100.0
+"Bally's Interactive",15.00,946.00,NULL
+Cohere,5.00,935.00,20.0
+Bakkt,15.00,932.00,28.0
+Toast,30.00,932.00,1850.0
+Xiaohongshu,9.00,917.00,180.0
+Zomato,8.50,914.00,620.0
+GoodRx,16.00,910.00,140.0
+"Lyra Health",2.00,910.00,77.0
+Better.com,21.00,905.00,3900.0
+Wealthsimple,13.00,900.00,159.0
+"Western Digital",7.00,900.00,522.0
+"Cue Health",44.40,899.00,1075.0
+Zip,20.00,896.00,300.0
+Zymergen,10.00,894.00,307.0
+Zhihu,10.00,892.00,NULL
+"Cityblock Health",12.00,891.00,155.0
+Wayflyer,40.00,889.00,200.0
+Proofpoint,6.00,885.00,280.0
+"Next Insurance",17.00,881.00,150.0
+Meesho,21.50,878.75,901.0
+Celsius,25.00,864.00,150.0
+Attentive,15.00,863.00,NULL
+Weee!,10.00,863.00,150.0
+Five9,5.50,862.00,313.0
+Olive,65.50,856.00,450.0
+"Olive AI",35.00,856.00,215.0
+Wonder,7.00,850.00,130.0
+Snyk,14.00,849.00,356.0
+"Automation Anywhere",10.00,840.00,260.0
+Unacademy,10.50,838.00,1750.0
+Revolut,3.00,837.00,60.0
+Vacasa,11.67,834.00,2420.0
+"Hinge Health",10.00,826.00,NULL
+"NanoString Technologies",9.00,826.00,50.0
+Project44,7.50,817.00,309.0
+DailyPay,15.00,814.00,NULL
+"Desktop Metal",16.00,811.00,NULL
+DataRobot,16.50,810.00,270.0
+OutSystems,8.00,802.00,150.0
+Trax,10.00,795.33,300.0
+Sema4,13.00,791.00,750.0
+Luminar,17.50,780.00,140.0
+Carta,13.00,773.50,161.0
+Careem,31.00,771.00,536.0
+Niantic,8.00,770.00,483.0
+Bluevine,18.00,769.00,100.0
+Getaround,21.67,766.33,100.0
+Lime,13.00,765.00,80.0
+Postmates,15.00,763.00,180.0
+Cybereason,11.50,750.00,300.0
+Thoughtworks,4.50,748.00,1079.0
+Gusto,5.00,746.00,126.0
+HomeLight,19.00,743.00,NULL
+Sorare,13.00,739.00,22.0
+Nextdoor,25.00,736.00,NULL
+Plaid,20.00,734.00,260.0
+InSightec,20.00,733.00,100.0
+NanoString,10.00,731.00,NULL
+Hopper,30.00,730.00,250.0
+AvantStay,22.00,727.67,261.0
+Personio,6.00,724.00,215.0
+DraftKings,4.00,719.00,140.0
+Sonder,21.25,719.00,856.0
+"Perfect Day",15.00,711.00,134.0
+Casavo,30.00,708.00,NULL
+ManoMano,25.00,705.00,230.0
+Improbable,10.00,704.00,NULL
+Petal,15.00,704.00,NULL
+Bird,26.50,703.00,544.0
+Avaya,3.00,700.00,180.0
+Sana,15.00,700.00,NULL
+Zepz,16.00,700.00,650.0
+BuzzFeed,14.33,696.00,360.0
+SentinelOne,5.00,696.00,NULL
+SmileDirectClub,100.00,694.00,NULL
+AppHarvest,100.00,692.00,NULL
+Domo,8.50,689.00,90.0
+ClearCo,27.50,686.67,235.0
+Xero,15.00,681.00,800.0
+Doma,22.67,679.00,1075.0
+Gousto,14.00,675.00,NULL
+OneTrust,17.50,668.00,1100.0
+Oportun,8.50,666.00,340.0
+Blend,15.00,665.00,1010.0
+Ericsson,8.00,663.00,8500.0
+Noom,10.00,657.00,995.0
+"Editas Medicine",20.00,656.00,NULL
+GetYourGuide,17.00,656.00,90.0
+Knock,46.00,654.00,115.0
+"Jam City",13.50,652.00,285.0
+Procore,6.50,651.50,180.0
+MoonPay,10.00,651.00,30.0
+TuSimple,27.50,648.00,500.0
+Zuora,9.50,647.00,NULL
+Socure,16.00,646.00,173.0
+"Tier Mobility",15.00,646.00,260.0
+Highspot,12.50,644.00,240.0
+Guild,18.50,643.00,472.0
+"Ava Labs",12.00,640.00,NULL
+"Orca Security",15.00,632.00,60.0
+Arrival,51.25,629.00,800.0
+"Bowery Farming",100.00,626.00,NULL
+Honor,15.00,625.00,NULL
+Tricida,57.00,624.00,NULL
+"Pie Insurance",14.00,621.00,63.0
+Uniphore,10.00,620.00,76.0
+Zwift,15.00,619.00,230.0
+Twilio,11.00,614.00,2300.0
+Alteryx,11.00,613.00,320.0
+Houzz,9.00,613.00,250.0
+Loft,12.25,613.00,1289.0
+Carsome,10.00,607.00,NULL
+MediaMath,54.00,607.00,53.0
+Infarm,27.50,604.00,550.0
+Dutchie,7.00,603.00,50.0
+"Scale AI",20.00,602.00,NULL
+Veev,65.00,597.00,100.0
+Forto,8.00,593.00,260.0
+BioMarin,4.00,585.00,120.0
+"Aura Financial",100.00,584.00,NULL
+Gong,7.00,583.00,80.0
+Stem,27.00,583.00,NULL
+"Transmit Security",7.00,583.00,27.0
+Zenefits,15.00,583.00,87.0
+Navi,25.00,582.00,40.0
+Fetch,10.00,581.00,100.0
+Ynsect,25.00,579.00,17.0
+Ledger,12.00,577.00,NULL
+Volta,32.00,575.00,NULL
+Planet,13.50,574.00,297.0
+Capsule,13.00,570.00,NULL
+Verbit,8.00,569.00,140.0
+Kry,10.00,568.00,400.0
+BetterUp,16.00,567.00,100.0
+Motive,5.50,567.00,237.0
+Tenable,5.00,565.00,NULL
+Tipalti,11.00,565.00,123.0
+Thumbtack,22.00,560.50,410.0
+Knotel,19.00,560.00,147.0
+Greenlight,21.00,556.00,104.0
+Nevro,5.00,556.00,63.0
+DriveWealth,20.00,550.00,NULL
+"Guardant Health",7.00,550.00,130.0
+ClassPass,22.00,549.00,154.0
+Coinbase,19.00,549.00,2110.0
+Kyte,40.00,548.00,NULL
+MakeMyTrip,10.00,548.00,700.0
+"Rebel Foods",2.00,548.00,NULL
+Innoviz,13.00,547.00,60.0
+Bitpanda,27.00,546.00,270.0
+QuintoAndar,6.00,545.00,248.0
+Ualá,3.00,544.00,53.0
+Paxos,20.00,543.00,65.0
+SoundCloud,14.00,542.00,NULL
+Armis,4.00,537.00,25.0
+C2FO,2.50,537.00,116.0
+ClickUp,8.50,537.00,150.0
+Chainalysis,10.00,536.00,194.0
+DocuSign,8.33,536.00,1791.0
+Xendit,5.00,534.00,200.0
+Quanterix,25.00,533.00,130.0
+"Butterfly Network",17.50,530.00,NULL
+"Butterfly Network copy",25.00,530.00,NULL
+Marqeta,15.00,530.00,NULL
+Samsara,18.00,530.00,300.0
+GoCardless,17.00,529.00,150.0
+"Root Insurance",20.00,527.00,467.0
+"Misfits Market",33.00,526.00,649.0
+"Rent the Runway",17.00,526.00,37.0
+SiriusXM,5.50,525.00,635.0
+"Aurora Solar",20.00,523.00,169.0
+Neon,9.50,522.33,460.0
+"Carbon Health",6.50,522.00,620.0
+Klook,15.00,521.00,300.0
+Enovix,33.00,516.00,355.0
+StockX,10.00,513.33,300.0
+Spinny,5.00,513.00,300.0
+Flutterwave,3.00,509.00,30.0
+Loggi,11.00,507.00,800.0
+OwnBackup,17.00,507.00,170.0
+Oda,14.00,506.00,360.0
+Melio,7.00,504.00,100.0
+Shift,54.67,504.00,NULL
+Fundbox,28.50,503.00,164.0
+"Twist Bioscience",25.00,503.00,270.0
+Facily,30.00,502.00,260.0
+Aura,9.00,500.00,70.0
+PaisaBazaar,50.00,496.00,1500.0
+Remote,9.00,496.00,100.0
+PayFit,20.00,495.00,200.0
+Checkr,22.00,494.00,446.0
+ZipRecruiter,29.50,494.00,670.0
+Addepar,3.00,491.00,20.0
+DigitalOcean,11.00,491.00,200.0
+Turntide,20.00,491.00,NULL
+Blockchain.com,26.50,490.00,260.0
+Licious,3.00,490.00,80.0
+Outreach,7.60,489.00,197.0
+ConsenSys,15.00,487.33,354.0
+"Anchorage Digital",20.00,487.00,75.0
+MeridianLink,9.00,485.00,NULL
+Freshworks,5.67,484.00,864.0
+ApplyBoard,5.00,483.00,90.0
+Eventbrite,21.33,482.00,680.0
+Devo,15.00,481.00,NULL
+Lemonade,3.00,481.00,97.0
+Stash,20.75,480.00,240.0
+"Stash Financial",8.00,480.00,40.0
+OneStudyTeam,25.00,479.00,NULL
+Sweetgreen,10.00,478.00,35.0
+"Course Hero",20.00,477.00,42.0
+Miro,12.50,476.00,394.0
+"Grove Collaborative",17.00,474.00,NULL
+Truiloo,5.00,474.00,24.0
+Moglix,2.00,472.00,40.0
+Orchard,10.00,472.00,180.0
+Packable,20.00,472.00,138.0
+"NuScale Power",28.00,470.00,154.0
+Pendo,8.50,469.00,145.0
+Chargebee,10.00,468.00,242.0
+Turo,23.50,467.00,258.0
+Cerebral,17.50,462.00,685.0
+Edgio,10.67,462.00,309.0
+MasterClass,20.00,461.00,199.0
+Synthego,20.00,459.00,105.0
+Coursera,10.00,458.00,150.0
+Confluent,8.00,455.00,221.0
+Sonos,9.25,455.00,604.0
+Asana,9.00,453.00,280.0
+Polygon,19.50,451.00,160.0
+Tonal,35.00,450.00,262.0
+Vimeo,8.50,450.00,NULL
+Altruist,10.00,449.00,37.0
+Kitopi,10.00,446.50,217.0
+Merama,10.00,445.00,NULL
+Rubius,78.50,445.00,160.0
+Taboola,6.00,445.00,100.0
+OneFootball,22.00,442.00,212.0
+EasyKnock,100.00,440.00,NULL
+"Sage Therapeutics",53.00,438.00,340.0
+Docker,10.00,436.00,NULL
+Yotpo,9.00,436.00,70.0
+Tekion,10.00,435.00,300.0
+JOKR,5.00,430.00,50.0
+Sprinklr,7.33,429.00,766.0
+Pleo,15.00,428.00,150.0
+Voi,11.67,428.00,385.0
+OpenSea,35.00,427.00,NULL
+2U,20.00,426.00,NULL
+6sense,10.00,426.00,150.0
+Formstack,40.00,425.00,NULL
+"Quantum SI",12.00,425.00,NULL
+Satellogic,21.50,424.00,104.0
+Gemini,9.00,423.00,168.0
+RigUp,25.00,423.00,120.0
+Zume,83.50,423.00,200.0
+Aiven,20.00,420.00,NULL
+Dunzo,34.50,420.00,600.0
+Podium,12.00,419.00,NULL
+"Maven Clinic",10.00,417.00,60.0
+IronNet,50.67,416.00,145.0
+Jumpcloud,12.00,416.00,100.0
+Workato,10.00,415.00,90.0
+"dbt Labs",15.00,414.00,NULL
+Multiverse,5.00,414.00,NULL
+Starburst,15.00,414.00,NULL
+GitLab,7.00,413.00,130.0
+Benchling,9.00,411.00,74.0
+Degreed,15.00,411.00,NULL
+SmartNews,40.00,410.00,120.0
+"Pear Therapeutics",36.25,409.00,313.0
+"Adaptive Biotechnologies",12.00,406.00,100.0
+Ribbon,85.00,405.00,306.0
+"Dapper Labs",21.00,404.67,185.0
+Curefit,16.00,404.50,920.0
+WHOOP,9.50,404.00,95.0
+Metromile,26.50,401.50,160.0
+GoDaddy,7.00,400.00,981.0
+Magnite,6.00,400.00,NULL
+Pax8,5.00,400.00,NULL
+Qualtrics,9.50,400.00,1050.0
+SeatGeek,15.00,400.00,150.0
+Wex,5.00,400.00,375.0
+"Flock Freight",8.00,399.00,99.0
+"Eightfold AI",15.00,396.00,90.0
+Stackpath,100.00,396.00,NULL
+"Hugging Face",4.00,395.00,10.0
+Outbrain,6.50,394.00,328.0
+"Lending Club",19.33,392.00,857.0
+Exabeam,20.00,391.00,NULL
+"Volta Trucks",100.00,391.00,NULL
+DealShare,6.00,390.00,230.0
+Foursquare,25.00,390.00,105.0
+"Our Next Energy",19.00,390.00,168.0
+Paper,13.75,389.00,355.0
+"Blue Apron",15.00,387.00,NULL
+inDrive,10.00,387.00,NULL
+Solarisbank,10.00,385.00,20.0
+Cart.com,4.00,383.00,25.0
+"Rubicon Technologies",11.00,382.00,NULL
+OfferUp,20.50,381.00,NULL
+"Benitago Group",14.00,380.00,NULL
+ContraFect,37.00,380.00,16.0
+"Matter Labs",16.00,380.00,NULL
+Innovaccer,11.50,379.00,335.0
+LeafLink,31.00,379.00,80.0
+Bitso,11.00,378.00,180.0
+Wejo,16.00,376.00,40.0
+"Mobile Premier League",10.00,375.00,100.0
+Carousell,8.50,373.50,186.0
+"General Fusion",25.00,370.00,NULL
+VideoAmp,10.50,368.50,61.0
+"Hyperloop One",100.00,368.00,NULL
+"Virgin Hyperloop",50.00,368.00,111.0
+"Branch Metrics",20.00,367.00,100.0
+Viasat,7.00,366.00,1100.0
+Boxed,25.00,365.00,32.0
+Roofstock,23.50,365.00,NULL
+SiFive,20.00,365.00,130.0
+VTEX,13.00,365.00,200.0
+Dragos,9.00,364.00,50.0
+WayCool,12.00,363.00,570.0
+Impact.com,6.50,361.00,40.0
+ActiveCampaign,15.00,360.00,NULL
+"Duck Creek Technologies",9.00,357.00,NULL
+"The RealReal",8.50,357.00,465.0
+"Alto Pharmacy",6.00,356.00,47.0
+InVision,75.00,356.00,22.0
+Offerpad,7.00,355.00,NULL
+ShopBack,24.00,355.00,195.0
+Calendly,11.50,351.00,130.0
+Cedar,24.00,351.00,NULL
+GitHub,10.00,350.00,NULL
+HashiCorp,8.00,349.00,69.0
+Iflix,12.00,348.00,50.0
+Qumulo,19.00,347.00,80.0
+"Software AG",4.00,344.00,200.0
+"Motif Foodworks",100.00,343.00,NULL
+TrueCar,27.00,340.00,321.0
+Casper,21.00,339.00,78.0
+Guideline,11.00,339.00,48.0
+MadeiraMadeira,3.00,338.00,60.0
+BigPanda,13.00,337.00,40.0
+Fabric,27.50,336.00,150.0
+Unico,7.00,336.00,160.0
+Lightricks,12.00,335.00,150.0
+"Skybox Security",100.00,335.00,300.0
+Webflow,8.00,335.00,NULL
+Salsify,12.00,334.00,260.0
+CoachHub,10.00,332.00,NULL
+Jamf,6.00,332.00,NULL
+Homeward,22.50,330.50,NULL
+ShipBob,7.00,330.00,NULL
+Taxfix,20.00,330.00,120.0
+"Rad Power Bikes",12.00,329.00,203.0
+"Amber Group",10.00,328.00,NULL
+"Clarify Health",5.00,328.00,15.0
+Drata,9.00,328.00,40.0
+SoundHound,30.00,326.00,245.0
+Stord,8.00,325.00,59.0
+Monzo,8.00,324.00,285.0
+"Deep Instict",15.00,322.00,46.0
+eToro,6.00,322.00,100.0
+Synlogic,25.00,321.00,NULL
+Inmobi,5.00,320.00,175.0
+Redfin,6.80,319.71,2347.0
+ezCater,44.00,319.00,400.0
+"Embark Trucks",70.00,317.00,230.0
+"REE Automotive",11.00,317.00,31.0
+Sarcos,25.00,316.00,225.0
+CircleCI,17.00,315.00,100.0
+"Redesign Health",20.00,315.00,221.0
+AEye,33.00,314.00,46.0
+Creditas,6.00,314.00,NULL
+"Built Technologies copy",8.00,313.00,NULL
+Bumble,30.00,313.00,350.0
+Side,10.00,313.00,NULL
+Amplitude,13.00,311.00,99.0
+Udemy,10.00,311.00,280.0
+Enjoy,18.00,310.00,400.0
+Flyhomes,30.00,310.00,500.0
+Rover,41.00,310.00,194.0
+"Vox Media",4.33,307.00,169.0
+WalkMe,6.50,307.00,155.0
+Zilingo,8.50,307.00,144.0
+"Ethos Life",13.00,306.00,108.0
+ThredUp,15.00,305.00,243.0
+Clearcover,21.50,304.00,81.0
+Latch,32.50,304.00,335.0
+"May Mobility",13.00,303.00,NULL
+"Chipper Cash",26.33,302.00,185.0
+"Akili Labs",35.00,301.00,46.0
+Sezzle,20.00,301.00,NULL
+"Vedanta Biosciences",20.00,301.00,NULL
+Bullish,8.00,300.00,30.0
+Canoo,6.00,300.00,78.0
+Gympass,33.00,300.00,467.0
+Hootsuite,14.00,300.00,520.0
+Zapp,50.00,300.00,NULL
+Openpay,100.00,299.00,83.0
+Veho,19.00,299.00,65.0
+Everlaw,10.00,298.00,NULL
+"Rigetti Computing",28.00,298.00,NULL
+Minted,37.00,297.00,147.0
+At-Bay,9.00,296.00,27.0
+Clutter,30.00,296.00,NULL
+TrueLayer,17.50,296.00,111.0
+Innovid,10.00,295.00,40.0
+Livspace,8.50,294.00,550.0
+"Rec Room",16.00,294.00,NULL
+AlayaCare,14.00,293.00,80.0
+AppsFlyer,7.00,293.00,100.0
+Meero,50.00,293.00,350.0
+Paddle,8.00,293.00,NULL
+Vedantu,5.00,292.00,1109.0
+Wave,15.00,292.00,300.0
+"Deep Instinct",10.00,290.50,20.0
+Nomad,20.00,290.00,NULL
+Hyperscience,25.00,289.00,100.0
+Patreon,15.00,289.00,151.0
+Expel,10.00,288.00,60.0
+GoPro,13.00,288.00,339.0
+Storytel,12.00,287.33,260.0
+PolicyGenius,25.00,286.00,170.0
+Grubhub,19.00,284.00,900.0
+Amount,21.50,283.00,130.0
+Segment,10.00,283.00,50.0
+Astronomer,30.00,282.00,176.0
+"Komodo Health",9.00,282.00,101.0
+Capitolis,25.00,281.00,37.0
+Juni,33.00,281.00,72.0
+Bill.com,15.00,280.00,NULL
+Convene,18.00,280.00,150.0
+Dock,12.00,280.00,190.0
+FreshDirect,3.00,280.00,140.0
+Immutable,8.50,279.00,20.0
+Koho,9.00,278.00,15.0
+"Titan Medical",72.00,278.00,48.0
+Recharge,17.00,277.00,84.0
+Zoom,8.50,276.00,1450.0
+"80 Acres Farms",10.00,275.00,NULL
+Augury,11.50,274.00,90.0
+Meati,30.00,274.00,NULL
+"Meati Foods",5.00,274.00,NULL
+Sisense,12.33,274.00,240.0
+"Included Health",6.00,272.00,NULL
+"Berkeley Lights",12.00,272.00,NULL
+Rapid,40.00,272.00,185.0
+Silo,30.00,272.00,NULL
+"Akili Interactive",46.00,271.00,NULL
+Firework,10.00,269.00,NULL
+Hydrow,35.00,269.00,30.0
+FreshBooks,8.33,267.00,258.0
+Placer.ai,18.00,267.00,150.0
+Heroes,20.00,265.00,24.0
+Flexe,35.50,263.00,230.0
+Flywire,12.00,263.00,185.0
+Matterport,32.00,261.50,260.0
+Superpedestrian,7.00,261.00,35.0
+"Mythical Games",10.00,260.00,NULL
+Starry,37.00,260.00,100.0
+"Wildlife Studios",20.00,260.00,300.0
+MariaDB,18.00,258.50,84.0
+"Element AI",15.00,257.00,62.0
+"Repertoire Immune Medicines",50.00,257.00,65.0
+Deepwatch,7.00,256.00,30.0
+Truepill,24.00,255.00,325.0
+DeHaat,5.00,254.00,NULL
+1stdibs,17.00,253.00,70.0
+8x8,8.00,253.00,355.0
+Snapdocs,12.50,253.00,NULL
+TaxBit,40.00,253.00,80.0
+Optimizely,15.00,251.00,60.0
+2TM,13.50,250.00,190.0
+"Bright Machines",8.00,250.00,30.0
+Sourcegraph,8.00,248.00,24.0
+98point6,10.00,247.00,NULL
+D2iQ,56.50,247.00,34.0
+"Ghost Autonomy",100.00,247.00,100.0
+Otovo,15.00,247.00,65.0
+CoinDCX,12.00,245.50,80.0
+Ajaib,8.00,245.00,67.0
+Ebanx,14.00,245.00,402.0
+Lusha,10.00,245.00,30.0
+99,2.00,244.00,75.0
+Kabam,9.50,244.00,35.0
+"10X Genomics",8.00,242.00,100.0
+Papa,15.00,241.00,NULL
+Intercom,8.00,240.00,212.0
+Kiavi,7.00,240.00,39.0
+NCSoft,20.00,240.00,NULL
+Outschool,21.50,240.00,74.0
+Glossier,26.33,239.33,249.0
+Absci,15.00,237.50,70.0
+Flipboard,21.00,235.00,24.0
+Lattice,12.50,235.00,134.0
+Similarweb,8.00,235.00,180.0
+"Tilting Point",14.00,235.00,60.0
+Udacity,13.00,235.00,55.0
+Astra,22.00,233.33,40.0
+"CS Disco",8.50,233.00,62.0
+Jama,5.00,233.00,12.0
+Otonomo,50.00,231.00,80.0
+"Aqua Security",9.67,230.00,139.0
+Humane,4.00,230.00,10.0
+Rezi,100.00,230.00,NULL
+Workday,5.50,230.00,2275.0
+"Kayak / OpenTable",8.00,229.00,240.0
+Riskified,6.00,229.00,40.0
+"SQZ Biotech",60.00,229.00,NULL
+Chegg,17.50,227.00,1088.0
+KeepTruckin,18.00,227.00,349.0
+Personalis,30.00,225.00,NULL
+BigCommerce,10.00,224.00,180.0
+BookMyShow,18.00,224.00,270.0
+Evolve,17.00,224.00,339.0
+TouchBistro,23.00,224.00,131.0
+Beamery,18.50,223.00,NULL
+"Domino Data Lab",25.00,223.00,NULL
+OpenWeb,5.00,223.00,14.0
+Industrious,20.00,222.00,90.0
+Replit,20.00,222.00,30.0
+FourKites,11.50,221.00,60.0
+Alma,9.00,220.00,NULL
+Atlas,30.00,220.00,150.0
+BlackLine,5.00,220.00,190.0
+Fastly,11.00,219.00,NULL
+Calm,20.00,218.00,90.0
+"Nomad Health",21.00,218.00,119.0
+Huma,10.00,217.00,45.0
+Namely,40.00,217.00,110.0
+Pacaso,30.00,217.00,100.0
+Forward,36.00,216.67,210.0
+PayPal,8.00,216.00,4668.0
+Vendr,25.00,216.00,100.0
+Headspace,10.67,215.67,231.0
+Wheel,22.50,215.00,91.0
+"New Relic",7.33,214.50,545.0
+Bounce,22.33,214.00,490.0
+"Green Labs",70.00,214.00,350.0
+"Monarch Tractor",10.00,214.00,35.0
+Notarize,25.00,213.00,170.0
+"Tome Biosciences",100.00,213.00,131.0
+Brightline,20.00,212.00,NULL
+Electric,25.00,212.00,222.0
+Netlify,16.00,212.00,48.0
+Atlassian,5.00,210.00,500.0
+Skillz,10.00,209.50,91.0
+"Thirty Madison",10.00,209.00,24.0
+Roku,7.67,208.00,760.0
+"Culture Amp",8.50,207.00,126.0
+Ouster,10.00,207.00,NULL
+Autograph,33.00,205.00,30.0
+Chrono24,18.50,205.00,255.0
+Jumio,6.00,205.00,100.0
+Pliops,9.00,205.00,12.0
+Betterfly,30.00,204.00,30.0
+Glassdoor,22.50,204.00,440.0
+"Mojo Vision",75.00,204.00,NULL
+TIFIN,10.00,204.00,24.0
+Clutch,22.00,203.00,226.0
+Loom,12.50,203.00,57.0
+Vanta,14.00,203.00,NULL
+Eaze,100.00,202.00,525.0
+Frubana,3.00,202.00,NULL
+Zego,17.00,202.00,85.0
+Mogo,30.00,201.00,78.0
+BigBear.ai,7.00,200.00,NULL
+iFit,20.00,200.00,300.0
+Lendingkart,50.00,200.00,500.0
+Nextiva,17.00,200.00,NULL
+SendCloud,10.00,200.00,NULL
+Trigo,15.00,199.00,30.0
+SWVL,41.00,198.00,400.0
+FullStory,11.00,197.00,50.0
+IRL,62.50,197.00,25.0
+Skyscanner,20.00,197.00,300.0
+Starship,11.00,197.00,NULL
+Picsart,8.00,195.00,90.0
+SalesLoft,10.00,195.00,155.0
+Bizzabo,33.50,194.00,220.0
+"Jounce Therapeutics",57.00,194.00,NULL
+Zulily,100.00,194.00,839.0
+Gloat,12.00,192.00,35.0
+MediBuddy,8.00,192.00,200.0
+Mural,10.00,192.00,260.0
+Pluralsight,20.00,192.00,400.0
+Copper,15.00,191.50,35.0
+"Happy Money",34.00,191.00,158.0
+"Top Hat",5.67,190.67,93.0
+Ada,16.00,190.00,78.0
+Earnin,20.00,190.00,50.0
+"Group Nine Media",7.00,190.00,50.0
+Kandji,17.00,188.00,NULL
+"Kape Technologies",30.00,188.00,200.0
+Pollen,54.67,188.00,269.0
+Smava,12.50,188.00,200.0
+Amperity,8.00,187.00,33.0
+Healthy.io,31.50,185.00,110.0
+"Vicarious Surgical",14.00,185.00,NULL
+"Castlight Health",13.00,184.00,NULL
+Olo,10.00,184.00,81.0
+Polly,15.00,184.00,47.0
+Apollo,15.00,183.00,NULL
+"Modern Treasury",18.00,183.00,NULL
+SonderMind,16.00,183.00,49.0
+Curve,10.00,182.00,65.0
+Andela,10.00,181.00,135.0
+Away,14.33,181.00,82.0
+"Divvy Homes",10.00,180.00,134.0
+KoinWorks,8.00,180.00,70.0
+"The Good Glamm Group",15.00,180.00,150.0
+Loopio,7.67,179.00,11.0
+GoBolt,5.00,178.00,55.0
+LEAD,4.00,178.00,140.0
+Personetics,8.00,178.00,30.0
+Vendasta,5.00,178.00,NULL
+Zumper,15.00,178.00,45.0
+AtoB,30.00,177.00,32.0
+"Pristyn Care",11.00,177.00,420.0
+Food52,12.50,176.00,41.0
+"Prime Trust",33.00,176.00,NULL
+"Singular Genomics",15.00,176.00,NULL
+Albert,8.00,175.00,20.0
+Nylas,25.00,175.00,80.0
+Oriente,20.00,175.00,400.0
+Alice,16.00,174.00,176.0
+Outside,13.50,174.00,87.0
+Mux,25.00,173.00,80.0
+PagerDuty,7.00,173.00,NULL
+"Simple Feast",100.00,173.00,150.0
+TCR2,30.00,173.00,30.0
+Rupeek,15.00,172.00,230.0
+"Teladoc Health",6.00,172.00,300.0
+SirionLabs,15.00,171.00,130.0
+"Lucid Software",7.00,170.00,75.0
+OPay,70.00,170.00,NULL
+Unit,15.00,170.00,NULL
+"Apartment List",10.00,169.00,29.0
+"Core Scientific",10.00,169.00,NULL
+Puppet,12.50,169.00,50.0
+Swappie,17.00,169.00,250.0
+Teleport,6.00,169.00,15.0
+"Beam Benefits",8.00,168.00,105.0
+D2L,5.00,168.00,NULL
+Upwork,18.00,168.00,137.0
+"Blue Origin",10.00,167.00,1040.0
+Presto,17.00,167.00,NULL
+Sojern,35.00,167.00,300.0
+Wallbox,15.00,167.00,NULL
+Foxtrot,4.00,166.00,26.0
+Kaltura,10.50,166.00,75.0
+Cameo,25.00,165.00,247.0
+Linktree,22.00,165.00,110.0
+"Perimeter 81",8.00,165.00,20.0
+BenchSci,17.00,164.00,70.0
+CaptivateIQ,10.00,164.00,31.0
+Medium,25.00,163.00,NULL
+RenoRun,51.67,163.00,280.0
+"Sidecar Health",40.00,163.00,110.0
+Codexis,18.00,162.00,NULL
+Elastic,13.00,162.00,NULL
+SmartAsset,19.00,161.00,NULL
+"Corvus Insurance",14.00,160.00,NULL
+"Minute Media",10.00,160.00,50.0
+HackerOne,12.00,159.00,NULL
+Showpad,11.00,159.00,102.0
+Vouch,7.00,159.00,15.0
+Life360,14.00,158.00,NULL
+"Mister Spex",10.00,158.00,NULL
+NS8,95.00,158.00,240.0
+"True Anomaly",25.00,158.00,30.0
+Carwow,20.00,157.00,70.0
+"Neoleukin Therapeutics",70.00,157.00,NULL
+Twiga,27.00,157.00,494.0
+"App Annie",18.00,156.00,80.0
+"Cyteir Therapeutics",70.00,156.00,NULL
+TytoCare,10.00,156.00,20.0
+"Arch Oncology",100.00,155.00,NULL
+SolarEdge,14.00,155.00,2200.0
+LinkedIn,3.50,154.00,2538.0
+Shippo,20.00,154.00,60.0
+Sonatype,14.00,154.00,100.0
+Branch,27.00,153.33,274.0
+CyCognito,15.00,153.00,30.0
+Hubilo,23.50,153.00,210.0
+Poshmark,2.00,153.00,NULL
+Automox,11.00,152.00,NULL
+Sendoso,14.00,152.00,NULL
+Smartsheet,3.00,152.00,85.0
+"Sauce Labs",15.00,151.00,30.0
+Strava,14.00,151.00,NULL
+Block,9.00,150.00,1931.0
+Character.ai,5.00,150.00,6.0
+FarEye,30.00,150.00,340.0
+Moss,15.00,150.00,100.0
+Nerdy,17.00,150.00,NULL
+OpenClassrooms,25.00,150.00,NULL
+Talent.com,18.00,150.00,86.0
+Ecobee,10.00,149.00,47.0
+Nexar,14.00,149.00,54.0
+Point,28.00,149.00,61.0
+"TRM Labs",9.00,149.00,16.0
+Brainly,30.00,148.00,25.0
+Gem,33.00,148.00,170.0
+Symend,19.00,148.00,50.0
+Tackle,15.00,148.00,NULL
+Zscaler,3.00,148.00,177.0
+"Bishop Fox",13.00,146.00,50.0
+Cvent,10.00,146.00,400.0
+Inspirato,13.33,145.67,289.0
+Brightcove,21.50,145.00,268.0
+Brighte,15.00,145.00,88.0
+Fandom,14.00,145.00,NULL
+Grin,13.00,145.00,60.0
+Lyst,25.00,144.00,50.0
+Upstart,13.50,144.00,505.0
+Acko,9.00,143.00,45.0
+"Better Therapeutics",35.00,143.00,NULL
+Demandbase,3.00,143.00,27.0
+Embroker,12.00,142.00,30.0
+Bark,10.00,141.00,126.0
+Retool,9.00,141.00,NULL
+Chief,14.00,140.00,43.0
+Clear,20.00,140.00,190.0
+Ula,23.00,140.00,134.0
+Zola,20.00,140.00,NULL
+Sayurbox,5.00,139.00,NULL
+"The Athletic",8.00,139.00,46.0
+Buser,30.00,138.00,160.0
+Khoros,7.50,138.00,120.0
+Moladin,11.00,138.00,360.0
+Code42,10.00,137.50,25.0
+Pitch,48.50,137.50,139.0
+Bestow,14.00,137.00,41.0
+"Boosted Commerce",5.00,137.00,NULL
+Fi.Money,10.00,137.00,30.0
+Impinj,10.00,137.00,50.0
+Made.com,35.00,136.00,NULL
+Sundae,15.00,135.00,NULL
+Kraken,22.50,134.00,1500.0
+RedDoorz,10.00,134.00,NULL
+Cadre,25.00,133.00,28.0
+Freetrade,15.00,133.00,45.0
+Rhino,20.00,133.00,57.0
+Tally,61.50,132.00,28.0
+7shifts,13.00,131.00,98.0
+Breather,80.00,131.00,120.0
+Moovit,10.00,131.00,20.0
+Workhuman,10.00,131.00,130.0
+Veriff,18.00,130.33,230.0
+Domestika,32.00,130.00,239.0
+Laybuy,10.00,130.00,45.0
+Transfix,10.00,128.00,24.0
+CommonBond,100.00,127.50,22.0
+Calibrate,21.00,127.00,156.0
+Hotmart,12.00,127.00,227.0
+Ritual,36.67,126.67,257.0
+Acast,15.00,126.00,70.0
+"Motif Investing",100.00,126.00,NULL
+Stytch,25.00,126.00,19.0
+ForeScout,10.00,125.00,140.0
+Introhive,16.00,125.00,57.0
+Relativity,10.00,125.00,150.0
+Sophos,8.00,125.00,450.0
+"Stack Overflow",17.67,124.67,98.0
+Fast,100.00,124.00,NULL
+"Moxion Power",100.00,124.00,349.0
+"Sight Diagnostics",30.00,124.00,40.0
+Sunday,23.00,124.00,90.0
+Cowbell,12.00,123.00,28.0
+"Immersive Labs",10.00,123.00,38.0
+"Beyond Meat",12.50,122.00,505.0
+Shopify,15.00,122.00,3450.0
+"Credit Sesame",14.00,120.00,22.0
+"Daily Harvest",17.50,120.00,60.0
+"Flywheel Sports",98.00,120.00,784.0
+"Pomelo Fashion",8.00,120.00,55.0
+ZestMoney,60.00,120.00,250.0
+"Aleph Farms",30.00,119.00,30.0
+"Candy Digital",33.00,119.00,63.0
+Clearbanc,8.00,119.00,17.0
+Commercetools,10.00,119.00,NULL
+Drizly,100.00,119.00,268.0
+InfluxData,27.00,119.00,65.0
+Freightos,13.00,118.00,50.0
+"Gro Intelligence",26.67,118.00,110.0
+Jobcase,20.00,118.00,39.0
+"Liv Up",15.00,118.00,100.0
+Teachmint,5.00,118.00,115.0
+Uncapped,26.00,118.00,29.0
+Conga,11.00,117.00,NULL
+Reali,100.00,117.00,140.0
+SpotHero,21.00,117.00,40.0
+"The Wing",75.00,117.00,56.0
+Wattpad,12.50,117.00,62.0
+Yext,10.00,117.00,NULL
+Crossbeam,15.00,116.00,17.0
+Domio,40.00,116.00,NULL
+"Enphase Energy",13.50,116.00,850.0
+"Integral Ad Science",11.50,116.00,190.0
+"Pecan AI",25.00,116.00,30.0
+Pilot,13.00,116.00,45.0
+PeerStreet,30.00,115.50,126.0
+HealthifyMe,27.00,115.00,300.0
+Lithic,18.00,115.00,27.0
+TechTarget,5.00,115.00,60.0
+"The Mom Project",15.00,115.00,54.0
+"Zeus Living",56.50,115.00,217.0
+"Dynamic Signal",19.00,114.00,35.0
+Jellyfish,9.00,114.00,NULL
+Lev,30.00,114.00,64.0
+MindBody,25.00,114.00,1100.0
+Shogun,30.00,114.00,48.0
+Skedulo,8.00,114.00,31.0
+CityMall,30.00,112.00,281.0
+R3,20.00,112.00,NULL
+AgentSync,24.00,111.00,67.0
+Fiverr,8.00,111.00,60.0
+StreamElements,25.00,111.00,100.0
+Clubhouse,50.00,110.00,NULL
+Greenhouse,20.00,110.00,220.0
+Tomo,33.00,110.00,44.0
+Vesttoo,75.00,110.00,150.0
+Airlift,65.50,109.00,NULL
+eGym,25.00,109.00,100.0
+Tray.io,10.00,109.00,NULL
+Bluprint,100.00,108.00,137.0
+"Juniper Square",14.00,108.00,NULL
+NextRoll,5.00,108.00,NULL
+Superhuman,22.00,108.00,23.0
+Drift,25.00,107.00,159.0
+Freshly,25.00,107.00,329.0
+Kiwi.com,18.00,107.00,216.0
+Zipcar,20.00,107.00,100.0
+Abra,5.00,106.00,12.0
+Avidbots,14.00,106.00,50.0
+Deputy,30.00,106.00,60.0
+"Sana Benefits",34.50,106.00,73.0
+Digimarc,40.00,105.00,90.0
+Gupy,8.00,105.00,58.0
+NerdWallet,15.00,105.00,NULL
+Permutive,26.00,105.00,110.0
+RealPage,4.00,105.00,260.0
+Zoomo,12.00,105.00,92.0
+Crypto.com,18.33,104.00,2260.0
+Snappy,30.00,104.00,100.0
+Copia,25.00,103.00,1410.0
+DataRails,18.00,103.00,30.0
+"Iron Ox",50.00,103.00,50.0
+"Pavilion Data",96.00,103.00,96.0
+ScaleFactor,90.00,103.00,90.0
+Atera,6.00,102.00,20.0
+"Bossa Nova",50.00,102.00,61.0
