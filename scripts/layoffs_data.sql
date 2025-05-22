@@ -1,9 +1,10 @@
--- Data Cleaning
+
+# Data Cleaning
 
 SELECT *
 FROM layoffs;
 
--- Create a staging DB 
+# Create a staging DB 
 CREATE TABLE layoff_staging
 LIKE layoffs;
 
@@ -109,13 +110,13 @@ DROP COLUMN row_num;
 
 -- 5. Exploratory data analysislayoffs
 
--- Identify company with the highest number of layoffs
+# Identify company with the highest number of layoffs
 SELECT company, SUM(total_laid_off)
 FROM layoff_staging2
 GROUP BY company
 ORDER BY 2 DESC;
 
--- Identify the sum total layoffs by months
+# Identify the sum total layoffs by months
 WITH Rolling_Total AS (
 SELECT SUBSTRING(`date`, 1, 7) `MONTH`, SUM(total_laid_off) AS rolling_total
 FROM layoff_staging2
@@ -126,7 +127,7 @@ ORDER BY `MONTH` ASC
 SELECT `MONTH`,rolling_total, SUM(rolling_total) OVER(ORDER BY `MONTH`) AS rolling_off
 FROM Rolling_Total;
 
--- Rank the top 5 companies with the highest layoffs by year
+# Rank the top 5 companies with the highest layoffs by year
 WITH company_year(company, years,total_laid_off ) AS
 (
 SELECT company, YEAR(`date`), SUM(total_laid_off)
@@ -141,33 +142,46 @@ SELECT *
 FROM company_yearly_ranks
 WHERE RANKING <= 5;
 
--- Analyse layoff trends by Industry
-SELECT industry, YEAR(`date`), SUM(total_laid_off)
+# Analyse layoff trends by Industry
+SELECT industry, SUM(total_laid_off)
 FROM layoff_staging2
 WHERE industry IS NOT NULL
-GROUP BY industry, YEAR(`date`)
-ORDER BY 1, 2 DESC; 
+GROUP BY industry
+ORDER BY 2 DESC; 
 
--- Analyse layoff trends by Geography
+# Analyse layoff trends by Geography
 SELECT country, SUM(total_laid_off)
 FROM layoff_staging2
 WHERE country IS NOT NULL
 GROUP BY country
-ORDER BY 2 DESC; 
+ORDER BY 2 DESC;
 
--- Analyse layoff trends by company stage
+# Analyse layoff trends by company stage
 SELECT stage, SUM(total_laid_off)
 FROM layoff_staging2
 WHERE stage IS NOT NULL
 GROUP BY stage
 ORDER BY 1; 
 
--- Assess correlation between funds raised and layoffs
-SELECT company, funds_raised_in_millions, SUM(total_laid_off)
-FROM layoff_staging2
-WHERE funds_raised_in_millions IS NOT NULL
-GROUP BY company, funds_raised_in_millions
-ORDER BY SUM(total_laid_off) DESC;
+# Assess correlation between funds raised and layoffs
+SELECT 
+  company, CAST(REPLACE(REPLACE(funds_raised_in_millions, '$', ''), ',', '') AS DECIMAL) as funds_raised, percentage_laid_off,
+  ROUND(AVG(percentage_laid_off), 2) AS avg_percentage_laid_off,
+  ROUND(AVG(
+  CASE 
+      WHEN funds_raised_in_millions LIKE '$%' THEN 
+        CAST(REPLACE(REPLACE(funds_raised_in_millions, '$', ''), ',', '') AS DECIMAL)
+      ELSE 0
+    END), 2) AS avg_funds_raised,
+  SUM(total_laid_off) AS total_laid_off
+FROM 
+  layoff_staging2
+GROUP BY company, funds_raised, percentage_laid_off
+HAVING avg_percentage_laid_off AND avg_funds_raised IS NOT NULL
+ORDER BY 3 DESC;
+
+SELECT *
+FROM layoff_staging2;
 
 
 
